@@ -1,0 +1,27 @@
+{
+  "name": "bower_test",
+  "authors": [
+    "fk2000 <fujiwarak@gmail.com>"
+  ],
+  "description": "test",
+  "main": "index.html",
+  "keywords": [
+    "bower_test"
+  ],
+  "license": "MIT",
+  "homepage": "http://localhost/bower_test/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "modernizr": "^3.3.1",
+    "jQuery": "^3.1.0",
+    "normalize-css": "normalize.css#^4.2.0",
+    "medium-editor": "^5.22.0"
+  }
+}
